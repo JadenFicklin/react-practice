@@ -1,0 +1,13 @@
+body {
+  display: flex;
+
+  margin: 60px;
+}
+button {
+  margin: 20px;
+  margin-left: -10px;
+}
+
+input {
+  margin-top: 150px;
+}
