@@ -11,7 +11,7 @@ function TimerFunction() {
     }, 1000);
   });
 
-  const lessThanFive = secondsLeft < 8;
+  const lessThanFive = secondsLeft < 5;
 
   return (
     <div
